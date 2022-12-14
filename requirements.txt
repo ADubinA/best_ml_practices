@@ -1,0 +1,10 @@
+nbdev
+torch
+tqdm
+# matplotlib
+# pytorch_lightning
+# mlflow
+# fiftyone
+scikit-learn
+pandas
+torchvision

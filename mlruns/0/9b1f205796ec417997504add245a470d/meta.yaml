@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/dev/best_ml_practices/mlruns/0/9b1f205796ec417997504add245a470d/artifacts
+end_time: 1671035083826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b1f205796ec417997504add245a470d
+run_name: silent-hawk-188
+run_uuid: 9b1f205796ec417997504add245a470d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671035079657
+status: 3
+tags: []
+user_id: almog

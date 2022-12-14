@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/dev/best_ml_practices/mlruns/0/69d6fef8079f433a93e6970ee3fcb47c/artifacts
+end_time: 1671035420413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69d6fef8079f433a93e6970ee3fcb47c
+run_name: auspicious-bass-602
+run_uuid: 69d6fef8079f433a93e6970ee3fcb47c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671035417093
+status: 3
+tags: []
+user_id: almog
